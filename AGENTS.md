@@ -1,6 +1,6 @@
 # Project guidance
 
-- This is a public, independent portfolio concept, not an official or commissioned theatre project.
+- This is a public, independent portfolio concept inspired by the Юность cinema in Voronezh, not an official or commissioned cinema project. The repository name is historical; the venue is not a theatre.
 - Keep public documentation professional, factual, and English. Visitor-facing copy may be Russian for the intended theatre audience.
 - Do not copy private research, outreach drafts, credentials, personal information, or browser/session data into this repository.
 - Use original, synthetic, or appropriately licensed assets; record attribution when required. Do not assume reference-site assets may be republished.
